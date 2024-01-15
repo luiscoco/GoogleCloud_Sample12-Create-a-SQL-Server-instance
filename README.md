@@ -170,4 +170,10 @@ We verify the new SQL Server connection
 
 ![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/038f72a0-57c6-405f-b936-e06aaa1bf4a7)
 
+## 5. How to delete the Google Cloud SQL instance
 
+It is very important to disconnect/delete in VSCode and Visual Studio the connection to the database
+
+If we do not disconnect the IDEs the Delete button will appear as disable
+
+Then we press the Delete button to proceed with the database deletion process
