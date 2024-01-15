@@ -110,7 +110,45 @@ We can create a new database
 
 ## 3. Connect to Google Cloud SQL instance from VSCode
 
+We VSCode and we press **SQL Server** button in the left hand side menu 
 
+![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/2f2b04a3-ae62-42bc-b591-aee6a40a024c)
+
+We create a new connection
+
+![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/bc230512-04fe-41ec-b7db-c90800611b3d)
+
+We input the Public IP in the server name
+
+![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/8cfcb0a6-1415-406b-a00c-1d36a40a1160)
+
+We do not input any database name, we just press enter button
+
+![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/a7602b6a-e55c-48c4-9327-c9c12726b690)
+
+We select SQL login option
+
+![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/548f474d-2f69-4649-9420-7fe52c947612)
+
+We input the **sqlserver** user
+
+![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/2490d49c-7879-4dca-9e89-d78caae333ac)
+
+We input the **database password**
+
+![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/64f2b6f6-b633-40f7-b6ee-656660307d1f)
+
+We leave the default value for profile name
+
+![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/f74c48bc-c1fa-4193-aade-c127033de24d)
+
+We also press **Enable Trust Server Certificate**
+
+![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/2d0b90ab-1de0-400c-8aa3-9bf104ce98d9)
+
+We verify the SQL Server connection
+
+![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/67c42a06-0ab3-41c1-8d84-a7fb1d3773cd)
 
 ## 4. Connect to Google Cloud SQL instance from Visual Studio 2022 Community Edition
 
