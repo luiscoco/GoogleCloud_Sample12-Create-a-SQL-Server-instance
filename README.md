@@ -30,9 +30,19 @@ We select the CPU/Memory and storage capacity
 
 ![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/0152843b-d15d-42ad-9e17-8f9d6cfe050c)
 
+We select the Public IP in the Connection details
 
+![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/2b01ea0e-20ff-4726-b8ec-65fec05ac293)
 
+We add my laptop local IP and we press the **Add a Network** button
 
+![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/798b44e2-d445-4529-9d4f-7d437d3617c4)
+
+**IMPORTANT NOTE**: to get you local laptop IP navigate to the https://www.whatismyip.com/
+
+![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/05067c8b-37e4-4bb3-b8cf-88d9fe055467)
+
+![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/987751e5-5631-4584-ab0a-b52bf42726c6)
 
 
 ## 2. Connect to Google Cloud SQL instance from SSMS
