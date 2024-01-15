@@ -44,6 +44,14 @@ We add my laptop local IP and we press the **Add a Network** button
 
 ![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/987751e5-5631-4584-ab0a-b52bf42726c6)
 
+We unselect the **Enable deletion protection** option
+
+![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/bae2d197-618d-48b6-a0b5-825a546a4ab8)
+
+In **Featured Flag Setting** we select **Enable SQL Server Audit**
+
+![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/89571a0d-c2a4-476e-bec1-16d7b9358cc8)
+
 
 ## 2. Connect to Google Cloud SQL instance from SSMS
 
