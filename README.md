@@ -98,11 +98,15 @@ The most important infor to copy for connecting to the database is the Public IP
 
 ![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/8e10ed5f-981f-4d3c-978a-150b100d434a)
 
-
-
 ## 2. Connect to Google Cloud SQL instance from SSMS
 
+We run SSMS and we enter the SQL Server name and password
 
+![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/6c10be5b-a6f0-4fe4-ab45-257b72b62b2b)
+
+We can create a new database
+
+![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/4a48196a-e80e-4b09-a03f-a80d5fc4a395)
 
 ## 3. Connect to Google Cloud SQL instance from VSCode
 
