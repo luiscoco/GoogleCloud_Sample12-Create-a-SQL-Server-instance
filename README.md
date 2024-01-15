@@ -22,6 +22,8 @@ We input the server name, database password and Development option
 
 ![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/a1cbb7a0-e788-4867-8797-ea44a4121dd9)
 
+We select a Single zone and input the Region/location
+
 ![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/2480cb8b-6b60-4e54-b1ee-4df132c83b68)
 
 We select the CPU/Memory and storage capacity
