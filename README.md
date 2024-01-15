@@ -1,4 +1,4 @@
-![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/12ff2990-5fc3-43f1-868a-5d9889d16ab8)# How to create Google Cloud SQL Server instance and connect from SSMS, VSCode and Visual Studio 2022 Community Edition
+# How to create Google Cloud SQL Server instance and connect from SSMS, VSCode and Visual Studio 2022 Community Edition
 
 See this video: https://www.youtube.com/watch?v=ELTI7eS1Kdk
 
