@@ -16,6 +16,8 @@ We choose SQL Server option
 
 ![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/3bf57378-9791-48f1-9256-7a7e62dfa75b)
 
+We input the server name, database password and Development option
+
 ![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/d5ecb9ae-ba5f-4db4-a56c-3ff1e189a6d1)
 
 ![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/a1cbb7a0-e788-4867-8797-ea44a4121dd9)
