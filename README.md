@@ -1,4 +1,4 @@
-# How to create Google Cloud SQL Server instance and connect from SSMS, VSCode and Visual Studio 2022 Community Edition
+![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/12ff2990-5fc3-43f1-868a-5d9889d16ab8)# How to create Google Cloud SQL Server instance and connect from SSMS, VSCode and Visual Studio 2022 Community Edition
 
 See this video: https://www.youtube.com/watch?v=ELTI7eS1Kdk
 
@@ -79,6 +79,26 @@ We verify we select the folder
 Finally we press the **CREATE INSTANCE** button
 
 ![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/3344a8ac-8397-4f32-bd6e-2c46af0b40af)
+
+We verify we are creating a nw SQL Server instance
+
+![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/3fba46ef-3dfc-4975-8a31-632b5a326143)
+
+We can see the new SQL Server instance in the list
+
+![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/52c79a80-2192-4fa7-8789-d5d1b0c99e12)
+
+We can press ths **Column display options** button to add more fields info
+
+![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/0ad4cb7c-33f3-4272-b605-220bacf15d66)
+
+The most important infor to copy for connecting to the database is the Public IP and the database user
+
+![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/c6a3dd11-c5b2-4df0-b377-aedba845617d)
+
+![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/8e10ed5f-981f-4d3c-978a-150b100d434a)
+
+
 
 ## 2. Connect to Google Cloud SQL instance from SSMS
 
