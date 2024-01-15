@@ -62,8 +62,23 @@ We create a new bucket for database logs
 
 ![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/b15e6a6c-fe0e-429c-b381-5ad0acfec123)
 
+We create a new folder inside the bucket
 
+![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/b11f8c10-5eda-4c6f-b5c6-32c7e7a51021)
 
+![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/93ec0439-955a-478f-b8e0-14b1224992a5)
+
+We select the folder inside the bucket
+
+![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/86d09063-2e03-4c43-8a11-afaec34e4ada)
+
+We verify we select the folder
+
+![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/41715cbf-e548-4928-8c38-8c83e0eb1157)
+
+Finally we press the **CREATE INSTANCE** button
+
+![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/3344a8ac-8397-4f32-bd6e-2c46af0b40af)
 
 ## 2. Connect to Google Cloud SQL instance from SSMS
 
