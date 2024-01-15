@@ -52,6 +52,18 @@ In **Featured Flag Setting** we select **Enable SQL Server Audit**
 
 ![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/89571a0d-c2a4-476e-bec1-16d7b9358cc8)
 
+![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/9b6ae0fc-8a52-45d5-b1e8-5f73845e86e9)
+
+We create a new bucket for database logs
+
+![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/775d7368-277a-4eb1-a2fa-589519d5e9a2)
+
+![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/3ac56b13-ee33-4c02-ad5b-6e9c696714e4)
+
+![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/b15e6a6c-fe0e-429c-b381-5ad0acfec123)
+
+
+
 
 ## 2. Connect to Google Cloud SQL instance from SSMS
 
