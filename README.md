@@ -152,6 +152,22 @@ We verify the SQL Server connection
 
 ## 4. Connect to Google Cloud SQL instance from Visual Studio 2022 Community Edition
 
+![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/d1dbb1cf-5d4b-4578-abd1-389728e8d81c)
 
+![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/dfe6dc07-a349-4efd-8afc-a16043f24cd6)
+
+![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/63944228-68ec-4e16-80a2-1f22e062815a)
+
+We add a new SQL Server connection
+
+![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/385892da-aa93-4395-a80c-0fd364a1f652)
+
+We input the connection data
+
+![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/812d5ba4-ac5a-45d8-9a34-56016685aedf)
+
+We verify the new SQL Server connection
+
+![image](https://github.com/luiscoco/GoogleCloud_Sample12-Create-a-SQL-Server-instance/assets/32194879/038f72a0-57c6-405f-b936-e06aaa1bf4a7)
 
 
